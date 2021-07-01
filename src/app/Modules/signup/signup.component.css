@@ -1,0 +1,19 @@
+ .col-md-5{
+  /* background-image: url("https://png.pngtree.com/element_origin_min_pic/16/12/18/b20d4be1c1d4712656ebc6f1d693f2f8.jpg") */
+  background-color: rgb(252, 252, 252);
+  border: 1px solid rgb(131, 144, 170);
+  padding: 20px;
+
+} 
+
+.a{
+  padding: 20px;
+  float: center;
+}
+.jumbotron{
+  background-color: rgb(255, 255, 255);
+}
+input:focus{
+  border-color: #1d1c1f;
+  box-shadow: 0 0 2px rgba(178, 88, 196, 0.4);
+}

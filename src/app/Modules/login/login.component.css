@@ -1,0 +1,13 @@
+.jumbotron {
+    background-color: white;
+}
+.col-md-5{
+    background-color: rgb(250, 241, 227);
+    border: 1px solid rgb(20, 42, 85);
+    padding-top:30px; 
+
+}
+input:focus{
+    border-color: #1d1c1f;
+    box-shadow: 0 0 2px rgba(178, 88, 196, 0.4);
+}
